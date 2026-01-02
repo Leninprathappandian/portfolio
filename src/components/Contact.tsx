@@ -113,15 +113,6 @@ const Contact = () => {
               </a>
             </div>
 
-            {/* Location Card */}
-            <div className="glass-card p-6 group hover:border-primary/30 transition-all">
-              <MapPin className="w-8 h-8 text-primary mb-4" />
-              <h3 className="font-semibold text-foreground mb-2">Location</h3>
-              <p className="text-muted-foreground font-mono text-sm">
-                {contactInfo.location}
-              </p>
-            </div>
-
             {/* Availability */}
             <div className="glass-card p-6 border-accent/20">
               <div className="flex items-center gap-2 mb-2">
