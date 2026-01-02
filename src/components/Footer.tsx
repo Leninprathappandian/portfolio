@@ -61,10 +61,8 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Shield className="w-6 h-6 text-primary" />
-              <span className="font-mono font-bold text-lg">
-                <span className="text-primary">&lt;</span>
+              <span className="font-bold text-lg text-foreground">
                 {footerData.name}
-                <span className="text-primary">/&gt;</span>
               </span>
             </div>
             <p className="text-muted-foreground text-sm max-w-xs">
