@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/button";
 
 // ========== CUSTOMIZE THIS SECTION ==========
 const heroData = {
-  name: "John Doe",
+  name: "Lenin Prathap Pandian",
   role: "Cybersecurity Analyst & Data Specialist",
   intro: "Protecting digital assets and transforming data into actionable insights. Specializing in threat detection, vulnerability assessment, and security analytics.",
   email: "john.doe@example.com",
