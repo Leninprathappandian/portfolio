@@ -12,7 +12,7 @@ const heroData = {
   name: "Lenin Prathap Pandian",
   role: "Cybersecurity Analyst & Data Specialist",
   intro: "Protecting digital assets and transforming data into actionable insights. Specializing in threat detection, vulnerability assessment, and security analytics.",
-  email: "john.doe@example.com",
+  email: "leninthangrajpandian@gmail.com",
   github: "https://github.com/johndoe",
   linkedin: "https://linkedin.com/in/johndoe",
 };

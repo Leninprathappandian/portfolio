@@ -16,7 +16,7 @@ import { useToast } from "@/hooks/use-toast";
 
 // ========== CUSTOMIZE THIS SECTION ==========
 const contactInfo = {
-  email: "john.doe@example.com",
+  email: "leninthangrajpandian@gmail.com",
   location: "San Francisco, CA",
   availability: "Open for opportunities",
 };
