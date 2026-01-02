@@ -8,7 +8,7 @@ import { Github, Linkedin, Twitter, Mail, Shield, Heart } from "lucide-react";
 
 // ========== CUSTOMIZE THIS SECTION ==========
 const footerData = {
-  name: "John Doe",
+  name: "Lenin Prathap Pandian",
   tagline: "Cybersecurity Analyst & Data Specialist",
 };
 
