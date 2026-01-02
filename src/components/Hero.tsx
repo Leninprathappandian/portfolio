@@ -55,19 +55,6 @@ const Hero = () => {
       </div>
 
       <div className="relative z-10 section-container text-center">
-        {/* Terminal-style greeting */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5 }}
-          className="inline-flex items-center gap-2 px-4 py-2 mb-8 rounded-full bg-secondary/50 border border-primary/20"
-        >
-          <Terminal className="w-4 h-4 text-primary" />
-          <span className="font-mono text-sm text-muted-foreground">
-            <span className="text-primary">$</span> whoami
-          </span>
-        </motion.div>
-
         {/* Name */}
         <motion.h1
           initial={{ opacity: 0, y: 20 }}
