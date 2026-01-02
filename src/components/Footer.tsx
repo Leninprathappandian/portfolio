@@ -15,7 +15,7 @@ const footerData = {
 const socialLinks = [
   {
     name: "GitHub",
-    url: "https://github.com/johndoe",
+    url: "https://github.com/Leninprathappandian",
     icon: Github,
   },
   {

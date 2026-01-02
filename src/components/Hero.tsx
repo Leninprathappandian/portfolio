@@ -13,7 +13,7 @@ const heroData = {
   role: "Cybersecurity Analyst & Data Specialist",
   intro: "Protecting digital assets and transforming data into actionable insights. Specializing in threat detection, vulnerability assessment, and security analytics.",
   email: "leninthangrajpandian@gmail.com",
-  github: "https://github.com/johndoe",
+  github: "https://github.com/Leninprathappandian",
   linkedin: "https://linkedin.com/in/johndoe",
 };
 // ============================================
